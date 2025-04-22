@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Baasandash Davaakhuu</h1>
 <h3 align="center">I'm a full-stack developer who loves building things from the ground up</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baasandash0307&label=Profile%20views&color=0e75b6&style=flat" alt="baasandash0307" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baasandash0307" alt="baasandash0307" /></a> </p>
-
 - 🔭 I’m currently working on **completing it as a developer who’s still learning and growing.**
 
 - 👯 I’m looking to collaborate on **project with others who are passionate about coding**
