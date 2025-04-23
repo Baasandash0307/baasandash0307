@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baasandash0307&label=Profile%20views&color=0e75b6&style=flat" alt="baasandash0307" /> </p>
 
-- 🔭 I’m currently working on **completing it as a developer who’s still learning and growing.**
+- 🔭 "Programming isn't just about writing code. It's about creating solutions that simplify complex problems and inspire innovation." – Anonymous**
 
 - 👯 I’m looking to collaborate on **project with others who are passionate about coding**
 
